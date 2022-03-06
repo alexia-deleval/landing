@@ -1,0 +1,13 @@
+.avatar {
+	width: 600px;
+	height: 400px;
+	border-radius: 30%;
+	margin-left: none;
+	background-position: center;
+}
+
+.avatar {
+	background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0, 0, 0, 0.3)), url('Gina Perier Alexander Egebjerg.png');
+}
+
+
